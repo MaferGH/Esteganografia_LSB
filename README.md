@@ -1,10 +1,9 @@
-# 👁️ Esteganografía LSB en Imagen BMP 👁️
+<img alt="TITULO" src="https://github.com/user-attachments/assets/01778345-f744-4b08-86a9-a37a8bcddfb5" />
+
 
 Este proyecto implementa un sistema de esteganografía utilizando la técnica LSB (Least Significant Bit) para ocultar y extraer texto dentro de imágenes en formato BMP.
 
 El programa modifica los bits menos significativos de los píxeles de la imagen para insertar un mensaje sin que los cambios sean perceptibles a simple vista.
-
----
 
 ## Funcionalidades
 
@@ -18,11 +17,8 @@ El programa modifica los bits menos significativos de los píxeles de la imagen 
 ## Tecnologías Utilizadas
 
 - Java
-- Maven
-- Manipulación de archivos binarios
 - Modelo de color RGB
 - Formato de imagen BMP
-- Técnica de esteganografía LSB
 
 ---
 
@@ -137,21 +133,8 @@ Comparación de imagen y mensaje extraído.
   <img width="1280" height="720" alt="Captura de pantalla 2026-02-27 a la(s) 11 49 26 p m -Photoroom" src="https://github.com/user-attachments/assets/a92b6dec-0ce0-4919-9775-7c773571147d" />
 </p>
 
----
-
-## Propósito Académico
-
-Este proyecto demuestra:
-
-- Manipulación de archivos binarios en Java.
-- Comprensión de la estructura del formato BMP.
-- Aplicación práctica del modelo de color RGB.
-- Implementación básica de esteganografía con LSB.
-
-
-
 <p align="center">
-<img width="700" height="617" alt="Pink and Green Photo Cute   Sweet Couple Valentine&#39;s Day Mug-Photoroom" src="https://github.com/user-attachments/assets/fcc58447-91d1-4a77-8791-d824e57df867" />
+<img  alt="B2B" src="https://github.com/user-attachments/assets/fcc58447-91d1-4a77-8791-d824e57df867" />
 
 </p>
 
